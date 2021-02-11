@@ -14196,3 +14196,13 @@ button:focus {
 .kickstar-section {
   background-image: url("/img/newsletter_bg.png");
 }
+
+.profile_info_iner {
+  margin-top: 45px;
+}
+
+@media (max-width: 991px) {
+  .profile_info_iner {
+  margin-top: 0;
+}
+}
