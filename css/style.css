@@ -7567,7 +7567,7 @@ button:focus {
 }
 @media (max-width: 991px) {
   .portfolio_grid_style.grid_style_1 .single_portfolio_part:after {
-    background-color: rgba(255, 112, 112, 0.7);
+    background-color: rgba(255, 112, 112, 0.3);
   }
 }
 .portfolio_grid_style.grid_style_1 .single_portfolio_part img {
