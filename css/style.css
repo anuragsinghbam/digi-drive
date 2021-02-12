@@ -13706,7 +13706,7 @@ button:focus {
   margin-top: 90px;
 }
 .footer_section.footer_style_2 {
-  background-image: url("../img/footer_bg.png");
+  background-image: url("../img/footer_bg_1.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -14205,4 +14205,8 @@ button:focus {
   .profile_info_iner {
   margin-top: 0;
 }
+}
+
+.get-to-know {
+  max-width: 1400px;
 }
