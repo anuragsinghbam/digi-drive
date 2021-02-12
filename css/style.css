@@ -722,6 +722,7 @@ button:focus,
 }
 .navText .owl-nav button.owl-next img,
 .navText .owl-nav button.owl-prev img {
+  width: 1em;
   max-width: 30px;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -14210,3 +14211,38 @@ button:focus {
 .get-to-know {
   max-width: 1400px;
 }
+
+.contact_us_subtitle {
+  width: 20em;
+}
+
+.contact_us_subtitle p {
+    font-size: 1.25em;
+  }
+
+@media (max-width: 1200px) {
+  .contact_us_subtitle p {
+    font-size: 1em;
+    margin-top: 1em;
+  }
+}
+@media (max-width: 991px) {
+  .contact_us_subtitle p {
+    font-size: 1em;
+    margin-top: 0;
+  }
+}
+@media (max-width: 768px) {
+  .contact_us_subtitle p {
+    font-size: 0.9em;
+    
+  }
+
+  .contact_us_subtitle {
+    width: 15em;
+  }
+}
+
+.contact_us_subtitle p {
+    
+  }
