@@ -8511,7 +8511,7 @@ button:focus {
 }
 .breadcrumb_part.services_details_breadcrumb {
   position: relative;
-  background-image: url("../img/services_details/bg.png");
+  background-color: #6fda89;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -8527,6 +8527,7 @@ button:focus {
   font-size: 86px;
   font-weight: 500;
   font-family: Futura;
+  color: #000;
 }
 @media (max-width: 991px) {
   .breadcrumb_part.services_details_breadcrumb h3 {
@@ -14246,3 +14247,8 @@ button:focus {
 .contact_us_subtitle p {
     
   }
+
+  .breadcrumb_part.services_details_breadcrumb h3 {
+
+  color: #000;
+}
