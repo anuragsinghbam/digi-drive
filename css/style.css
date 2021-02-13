@@ -14281,3 +14281,9 @@ element.style {
 .social_icon > :first-child {
     margin-left: 0;
 }
+
+@media (max-width: 576px) {
+  .services_block {
+    margin-bottom: 2em;
+  }
+}
