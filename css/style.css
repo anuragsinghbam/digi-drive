@@ -14251,3 +14251,33 @@ button:focus {
 .get_started_today {
   margin-bottom: -1px;
 }
+
+.single_blog_post ul {
+    margin-top: 20px;
+}
+
+.single_blog_post h4 {
+    margin-top: 10px;
+}
+
+@media (max-width: 991px) {
+  .single_blog_post {
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width:576px) and (min-width:400px) {
+  .single_blog_post {
+    width: 360px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+
+element.style {
+    margin: 0;
+}
+.social_icon > :first-child {
+    margin-left: 0;
+}
