@@ -14247,3 +14247,7 @@ button:focus {
 .about_section {
   padding-bottom: 2.5em;
 }
+
+.get_started_today {
+  margin-bottom: -1px;
+}
