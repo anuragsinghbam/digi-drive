@@ -14292,3 +14292,6 @@ element.style {
   }
 }
 
+.navbar-collapse {
+  top: 50px;
+}
